@@ -7,7 +7,7 @@ Project Objective:
 - Identify top-performing products, categories, occasions, and cities.
 - Optimize sales strategy and logistics using data-driven insights.
 
-  This analysis empowers FNP to:
+This analysis empowers FNP to:
 - Personalize marketing strategies by occasion and location.
 - Plan inventory and staffing for high-demand periods.
 - Shorten delivery cycles and enhance customer satisfaction.
